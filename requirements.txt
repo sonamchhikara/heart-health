@@ -33,7 +33,6 @@ contextvars==2.4
 cryptography==3.4.7
 cycler==0.10.0
 Cython==0.29.23
-dataclasses==0.8
 decorator==4.4.2
 defusedxml==0.6.0
 distlib==0.3.1
